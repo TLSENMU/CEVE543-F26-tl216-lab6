@@ -11,5 +11,9 @@ _freeze/
 .quarto/
 *.quarto_ipynb
 
+# Local presentation aids and generated Beamer source.
+presentation-notes.md
+slides.tex
+
 # OS noise
 .DS_Store
